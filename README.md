@@ -1,7 +1,7 @@
 # 🚀Cuddly-goggles
 
 An cuddly-goggles project** built with modern stack:  
-**Android+ iOS*  
+**Android & iOS*  
 
 ---
 
