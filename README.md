@@ -1,6 +1,6 @@
-# 🚀 Upgraded Furnicular  
+# 🚀Cuddly-goggles
 
-An upgraded **Furnicular project** built with **GraphQL** and a modern stack:  
+An cuddly-goggles project** built with modern stack:  
 **Android+ iOS*  
 
 ---
